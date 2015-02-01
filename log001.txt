@@ -1,0 +1,1611 @@
+<pre>Array
+(
+    [msg_item] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 201419074
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339688
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 201419063
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339618
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 201418114
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324769
+                    [content] => sdfsdaf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 201418113
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324763
+                    [content] => dfdsf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 201418110
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324679
+                    [content] => dfdfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 201418109
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324593
+                    [content] => dfdsfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 201418095
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324184
+                    [content] => ddddddddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [id] => 201418093
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324127
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [id] => 201418084
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412323941
+                    [content] => ddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [id] => 201417970
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322603
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [id] => 201417969
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322602
+                    [content] => ddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [id] => 201417965
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322562
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [id] => 201417964
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322560
+                    [content] => dd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [id] => 201417952
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322369
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [id] => 201417950
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322367
+                    [content] => dfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [id] => 201417927
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [id] => 201417926
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [id] => 201417925
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412321931
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [id] => 201417916
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [id] => 201417915
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+        )
+
+)
+</pre>
+<pre></pre>
+<pre></pre>
+<pre>Array
+(
+    [msg_item] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 201419074
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339688
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 201419063
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339618
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 201418114
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324769
+                    [content] => sdfsdaf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 201418113
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324763
+                    [content] => dfdsf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 201418110
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324679
+                    [content] => dfdfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 201418109
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324593
+                    [content] => dfdsfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 201418095
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324184
+                    [content] => ddddddddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [id] => 201418093
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324127
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [id] => 201418084
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412323941
+                    [content] => ddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [id] => 201417970
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322603
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [id] => 201417969
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322602
+                    [content] => ddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [id] => 201417965
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322562
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [id] => 201417964
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322560
+                    [content] => dd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [id] => 201417952
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322369
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [id] => 201417950
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322367
+                    [content] => dfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [id] => 201417927
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [id] => 201417926
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [id] => 201417925
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412321931
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [id] => 201417916
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [id] => 201417915
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+        )
+
+)
+</pre>
+<pre></pre>
+<pre></pre>
+<pre>Array
+(
+    [msg_item] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 201419074
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339688
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 201419063
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412339618
+                    [content] => 全部
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 201418114
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324769
+                    [content] => sdfsdaf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 201418113
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324763
+                    [content] => dfdsf
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 201418110
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324679
+                    [content] => dfdfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 201418109
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324593
+                    [content] => dfdsfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 201418095
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324184
+                    [content] => ddddddddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [id] => 201418093
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412324127
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [id] => 201418084
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412323941
+                    [content] => ddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [id] => 201417970
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322603
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [id] => 201417969
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322602
+                    [content] => ddddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [id] => 201417965
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322562
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [id] => 201417964
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322560
+                    [content] => dd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [id] => 201417952
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412322369
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [id] => 201417950
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412322367
+                    [content] => dfd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [id] => 201417927
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [id] => 201417926
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321933
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [id] => 201417925
+                    [type] => 1
+                    [fakeid] => 2656061822
+                    [nick_name] => 无视秋声
+                    [date_time] => 1412321931
+                    [content] => dddd
+                    [source] => 
+                    [msg_status] => 4
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 3008030397
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [id] => 201417916
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [id] => 201417915
+                    [type] => 1
+                    [fakeid] => 3008030397
+                    [nick_name] => 农大007
+                    [date_time] => 1412321811
+                    [content] => &lt;a href=&quot;sandongid=oveZKs-g4g_TFYqhNGWmIj9VviB8=sandong&quot;&gt;&lt;/a&gt;小海豚提示您：回复【全部】可以查看所有商家哦~
+回复【吃喝】或者【玩乐】可以查看相应类型的商家~
+                    [source] => biz
+                    [msg_status] => 2
+                    [has_reply] => 0
+                    [refuse_reason] => 
+                    [multi_item] => Array
+                        (
+                        )
+
+                    [to_uin] => 2656061822
+                    [send_stat] => Array
+                        (
+                            [total] => 0
+                            [succ] => 0
+                            [fail] => 0
+                        )
+
+                )
+
+        )
+
+)
+</pre>
+<pre></pre>
+<pre></pre>

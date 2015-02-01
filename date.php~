@@ -1,0 +1,6 @@
+<?php
+	
+	$date = new DateTime('01/01/2014');
+	echo gettype($date);
+
+?>

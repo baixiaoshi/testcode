@@ -1,0 +1,2243 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 03 Jan 2015 00:46:06 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.28
+Set-Cookie: PHPSESSID=e8pslogh2s0q7clrtmor0ogsh5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: dr_ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2240a04b7dac1469e6d9742b5b20a7189a%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A14%3A%22117.131.53.106%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A0%3A%22%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1420245966%3B%7Df23ae23b860176d6177643b348d46dde2e231b64; expires=Sat, 03-Jan-2015 02:46:06 GMT; path=/
+
+ccd3
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>美美多 - 美女照片|美女图片|美女写真|美女丝袜|美女诱惑|美女裸照</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="美女,图片,写真,丝袜,诱惑,裸照" />
+<meta name="description" content="打造最全的高清美女图库，美美多为您提供最新最热的性感美女,日本美女,韩国美女,动漫美女,体育美女,美女照片,美女壁纸,美女私房照等" />
+
+<link href="http://www.mmduo.cc/album/statics/client2/style/style.css" rel="stylesheet" type="text/css" />
+<script src="http://www.mmduo.cc/album/statics/client2/js/jquery-1.8.0.min.js"></script>
+<script src="http://www.mmduo.cc/album/statics/client2/js/jquery.slides.min.js"></script>
+
+<script>
+
+    $(function(){
+
+      $("#slides").slidesjs({
+
+        width: 670,
+
+        height: 228,
+
+    active: true,
+
+    play:{ active: true, interval: 2000, auto: false, pauseOnHover: true, swap: true},
+
+    navigation: {active: true},
+
+    effect: { slide: {speed: 1000} }
+
+    });
+
+    });
+
+</script>
+
+<script src="http://www.mmduo.cc/album/statics/client2/js/main.js"></script>
+
+<script src="http://www.mmduo.cc/album/statics/client2/js/mypreload.js"></script>
+
+
+<title>美眉多首页</title>
+
+</head>
+
+
+
+<body>
+
+
+<!--header-->
+
+<div class="header">
+
+	<a href="#" class="logo"></a>
+
+    <ul>
+
+    	<li class="on"><a href="#">首页</a></li>
+
+    	
+        <li><a href="/album/xingganmeinu">性感美女</a></li>
+
+        
+        <li><a href="/album/meinumingxing">美女明星</a></li>
+
+        
+        <li><a href="/album/weimeixiezhen">唯美写真</a></li>
+
+        
+        <li><a href="/album/wangluomeinu">网络美女</a></li>
+
+        
+        <li><a href="/album/tiyumeinu">体育美女</a></li>
+
+        
+        <li><a href="/album/dongmanmeinu">动漫美女</a></li>
+
+        
+        <li><a href="/album/motemeinu">模特美女</a></li>
+
+        
+    </ul>
+
+    <div class="search">
+
+    	<input name="" type="text" value="搜索图片..." onfocus="javascript:this.value=''" id="search_word"/>
+
+        <input name="" type="submit" value="" id="search_btn"/>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">
+
+        	//搜索模块
+
+        	$("#search_btn").bind('click',function(){
+
+        	if($('#search_word').val() != ""){
+
+        		var url = "/album/search_"+$('#search_word').val()+".html";
+
+        		window.location.href = url;
+
+        	}
+
+        	});
+
+        	//监听enter键按下
+
+        	$('#search_word').bind('keyup',function(e){
+
+        		if(e.keyCode == 13){
+
+        			if($('#search_word').val() != ""){
+
+	        		var url = "/album/search_"+$('#search_word').val()+".html";
+
+	        		window.location.href = url;
+
+        		}
+
+        		}
+
+        	})
+
+        
+
+        </script>
+
+<!--返回顶部-->
+
+<p id="back-to-top"><a href="#top"></a></p>
+
+
+
+<!--content-->
+
+<div class="content" id="mycontent">
+
+  <div class="ci-top">
+
+   	  <!--图片轮播-->
+
+    	<div class="img-roll">
+
+        	<ul id="slides">
+
+          
+            	<li>
+
+              <a href="/album/show_1395.html">
+
+              <img src="http://img.mmduo.cc/upload/luntotupian/e116d9cf9d.jpg" />
+
+            </a>
+
+              </li>
+          
+            	<li>
+
+              <a href="/album/show_1509.html">
+
+              <img src="http://img.mmduo.cc/upload/luntotupian/d27f141850.jpg" />
+
+            </a>
+
+              </li>
+          
+          </ul>
+
+      	</div>
+
+      
+
+      <div id="autoWidth">
+
+          <!--单图 w = 187-->
+
+          
+          <div class="img-187">
+
+            <a href="/album/show_1484.html">
+
+          	<img src="http://img.mmduo.cc/upload/thumbs/201407/07/9718b25d43.jpg"/>
+
+          	<h5>侯诗辰海边比基尼迷人写真</h5>
+
+            </a>
+
+          </div>
+
+          
+          <!--组图 w = 180 -->
+
+
+
+          <div class="img-4num">
+
+          	
+              <div class="img-187m">
+
+                <a href="/album/show_1495.html">
+
+              	<img src="http://img.mmduo.cc/upload/187x111/201407/07/45c7561cbc.jpg" />
+
+                <h5>黑色网孔内衣性感美女</h5>
+
+                </a>
+
+              </div>
+
+              
+              <div class="img-187m">
+
+                <a href="/album/show_1497.html">
+
+              	<img src="http://img.mmduo.cc/upload/187x111/201407/07/237ca94f01.jpg" />
+
+                <h5>豪乳性感美女</h5>
+
+                </a>
+
+              </div>
+
+              
+              <div class="img-187m">
+
+                <a href="/album/show_1494.html">
+
+              	<img src="http://img.mmduo.cc/upload/187x111/201407/07/0cd937b5b1.jpg" />
+
+                <h5>在洗澡间的美女</h5>
+
+                </a>
+
+              </div>
+
+              
+              <div class="img-187m">
+
+                <a href="/album/show_1493.html">
+
+              	<img src="http://img.mmduo.cc/upload/187x111/201407/07/d865b6bb04.jpg" />
+
+                <h5>连衣短裙肉丝MM</h5>
+
+                </a>
+
+              </div>
+
+              
+          </div>
+
+          <!--单图 w = 187-->
+
+          
+          <div class="img-187">
+
+           <a href="/album/show_1482.html">
+
+          	<img src="http://img.mmduo.cc/upload/thumbs/201407/07/69db7a2128.jpg" />
+
+          	<h5>可乐妹妹清新生活照</h5>
+
+          </a>
+
+          </div>
+
+          
+
+
+           <!--单图 w = 187-->
+
+          
+          <div class="img-187">
+
+           <a href="/album/show_1485.html">
+
+            <img src="http://img.mmduo.cc/upload/thumbs/201407/07/93429a8604.jpg" />
+
+            <h5>爆乳美娇娘筱崎爱写真</h5>
+
+          </a>
+
+          </div>
+
+          
+      </div>
+
+      
+
+      <!--热门标签-->
+
+      <div class="hot-tag">
+
+      	  <h2>热门标签:</h2>
+
+          <ul>
+
+              
+          	     <li class="on"><a href="http://www.mmduo.cc/album/tag_juru.html">巨乳</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_nuyou.html">女优</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_tongyanjuru.html">童颜巨乳</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_xinggan.html">性感</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_youhuo.html">诱惑</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_neiyi.html">内衣</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_fengman.html">丰满</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_hushizhuang.html">护士装</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_yujie.html">御姐</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_siwa.html">丝袜</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_huolashencai.html">火辣身材</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_youwu.html">尤物</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_bijini.html">比基尼</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_xiezhen.html">写真</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_heisi.html">黑丝</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_xiaohua.html">校花</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_zhifu.html">制服</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_shenghuozhao.html">生活照</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_jiebai.html">洁白</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_luoli.html">萝莉</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_chemo.html">车模</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_xiaoqingxin.html">小清新</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_mote.html">模特</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_chunmei.html">纯美</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_qizhi.html">气质</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_cosplay.html">Cosplay</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_keai.html">可爱</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_nushen.html">女神</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_nenmo.html">嫩模</a></li>
+
+                
+                 <li><a href="http://www.mmduo.cc/album/tag_quanshi.html">诠释</a></li>
+
+                
+          </ul>
+
+      </div>
+
+  </div><!--end ci-top-->
+
+  
+
+  <!--图片分类1-->
+
+  <div class="ci-classify">
+
+  	  <div class="head">
+
+      	<h1 class="purple">性感美女</h1>
+
+      	<div class="tag">
+
+        	<ul>
+
+            	<li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                  
+                	   <li class="sex_girl"><a href="javascript:void">内衣</a></li>
+
+                    
+                	   <li class="sex_girl"><a href="javascript:void">丰满</a></li>
+
+                    
+                	   <li class="sex_girl"><a href="javascript:void">护士装</a></li>
+
+                    
+                	   <li class="sex_girl"><a href="javascript:void">御姐</a></li>
+
+                    
+                	   <li class="sex_girl"><a href="javascript:void">丝袜</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+            	    
+                  <li  class="sex_girl"><a href="javascript:void">巨乳</a></li>  
+
+                  
+                  <li  class="sex_girl"><a href="javascript:void">女优</a></li>  
+
+                  
+                  <li  class="sex_girl"><a href="javascript:void">童颜巨乳</a></li>  
+
+                  
+                  <li  class="sex_girl"><a href="javascript:void">性感</a></li>  
+
+                  
+                  <li  class="sex_girl"><a href="javascript:void">诱惑</a></li>  
+
+                  
+            </ul>
+
+        </div>
+
+      </div><!--end head-->
+
+
+
+      <div class="img-show" id="sex_meinv">
+
+          <!--左侧大图-->
+
+          
+                        <div class="img-308 img">
+
+                        <a href="/album/show_2530.html">
+
+                          <img src="http://img.mmduo.cc/upload/308x427/201412/12/3c14bbd10c.jpg"/>
+
+                          <h5>性感纹身美女私房照</h5>
+
+                        </a>
+
+                        </div>
+
+                      
+      
+
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+          	  <div class="img-238">
+
+                <a href="/album/show_1729.html">
+
+              	<img src="http://img.mmduo.cc/upload/pageview/201408/08/f33ee70458.jpg"/>
+
+                <h5>黑丝巨乳小学妹</h5>
+
+                </a>
+
+              </div>
+
+               
+              <div class="img-117">
+
+              <a href="/album/show_2398.html">
+
+              <img src="http://img.mmduo.cc/upload/117x132/201412/12/702b9857a6.jpg"/>
+
+              <h5>大胸丰满嫩模内衣秀性感</h5>
+
+            </a>
+
+              </div>
+
+              
+              <div class="img-117">
+
+              <a href="/album/show_2357.html">
+
+              <img src="http://img.mmduo.cc/upload/117x132/201412/12/100d6ca758.jpg"/>
+
+              <h5>性感邻家MM唯美动人</h5>
+
+            </a>
+
+              </div>
+
+              
+            </div>
+
+          </div>
+
+         
+
+          <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              
+              <a href="/album/show_2346.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/11a459bb31.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2310.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/c9c94441bb.jpg"/></div>
+
+            </a>
+
+              
+              <div class="img-238">
+
+              <a href="/album/show_2298.html">
+
+              	<img src="http://img.mmduo.cc/upload/pageview/201412/12/d0e402251e.jpg"/>
+
+              	<h5>美女娇娇情趣内衣秀美胸</h5>
+
+              </a>
+
+              </div>
+
+              
+            </div>
+
+          </div>
+
+
+
+             
+                        <div class="img-308 img">
+
+                        <a href="/album/show_2509.html">
+
+                          <img src="http://img.mmduo.cc/upload/308x427/201412/12/f7dd31be00.jpg"/>
+
+                          <h5>泳池边性感豹纹美女</h5>
+
+                        </a>
+
+                        </div>
+
+                      
+          <div class="ci-308 img">
+
+                  
+                        <div class="img-308-hide">
+
+                          <a href="/album/show_2506.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/0061e47343.jpg"/>
+
+                          </a>
+
+                        </div>       
+
+                    
+                        <div class="img-308-hide">
+
+                          <a href="/album/show_2505.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/77ce23eff2.jpg"/>
+
+                          </a>
+
+                        </div>       
+
+                    
+              
+
+          </div>
+
+           
+          <div class="img-308 img">
+
+          <a href="/album/show_2529.html">
+
+          	<img src="http://img.mmduo.cc/upload/308x427/201412/12/c68cda5872.jpg"/>
+
+            <h5></h5>
+
+          </a>
+
+          </div>
+
+          
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+              <a href="/album/show_2311.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/b74cc2a6a9.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2337.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/98543cffa6.jpg"/></div>
+
+            </a>
+
+              
+              <div class="img-238">
+
+              <a href="/album/show_2369.html">
+
+                <img src="http://img.mmduo.cc/upload/pageview/201412/12/ade72653a8.jpg"/>
+
+                <h5>妩媚美女人体艺术写真</h5>
+
+              </a>
+
+              </div>
+
+              
+            </div>
+
+          </div>
+
+          <!-- <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              <div class="img-117"><img src="update/8a70757d40.jpg"/></div>
+
+              <div class="img-117"><img src="update/2ab4995e3f.jpg"/></div>
+
+              <div class="img-238">
+
+              	<img src="update/027ebbc381.jpg"/>
+
+                <h5>粉嫩巨乳少女筱崎爱</h5>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="img-308 img">
+
+          	<img src="update/mmdou_23.png"/>
+
+            <h5>粉嫩巨乳少女筱崎爱@@@@@@@</h5>
+
+          </div>
+
+          <div class="img-308 img">
+
+          	<img src="update/mmdou_23.png"/>
+
+            <h5>粉嫩巨乳少女筱崎爱</h5>
+
+          </div> -->
+
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+  
+
+    <!--图片分类1-->
+
+  <div class="ci-classify">
+
+  	  <div class="head">
+
+      	<h1 class="green">美女明星</h1>
+
+      	<div class="tag">
+
+        	<ul>
+
+            	<li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                	
+                     <li class="girl_star"><a href="javascript:void">校花</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">制服</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">生活照</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">洁白</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">萝莉</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+            	    
+                     <li class="girl_star"><a href="javascript:void">火辣身材</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">尤物</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">比基尼</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">写真</a></li>
+
+                    
+                     <li class="girl_star"><a href="javascript:void">黑丝</a></li>
+
+                    
+            </ul>
+
+        </div>
+
+      </div><!--end head-->
+
+      
+
+      <div class="img-show2" id="girl_star">
+
+        
+                        <div class="img-230">
+
+                        <a href="/album/show_2532.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/3281ca3897.jpg"/>
+
+                          <h5>台湾性感女神林志玲</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2531.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/8eea76d903.jpg"/>
+
+                          <h5>台湾艺人郭碧婷清新纯美空灵写真</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2527.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/68d07e0e4b.jpg"/>
+
+                          <h5>高圆圆杂志封面照</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2526.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/643b7cb1e1.jpg"/>
+
+                          <h5>朱丹全新写真演绎早春浪漫</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2525.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/76b5e06004.jpg"/>
+
+                          <h5>莫小棋蕾丝抹胸时尚写真</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2523.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/9214b9d757.jpg"/>
+
+                          <h5>徐洁儿短发造型娇俏可人</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2522.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/5aeb1d6a6b.jpg"/>
+
+                          <h5>江语晨最新封面写真</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2501.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/fb396521e3.jpg"/>
+
+                          <h5>曾泳醍写真笑容爽朗</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2500.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/8053eca87d.jpg"/>
+
+                          <h5>秦岚俏皮封面写真</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230">
+
+                        <a href="/album/show_2492.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/b82b3d097a.jpg"/>
+
+                          <h5>景甜性感亮相活动会场</h5>
+
+                        </a>
+
+                        </div>
+
+            
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+
+
+  <!--图片分类1-->
+
+  <div class="ci-classify">
+
+  	  <div class="head">
+
+      	<h1 class="purple">唯美写真</h1>
+
+      	<div class="tag">
+
+        	<ul>
+
+            	<li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                	
+                     <li class="weimei_xiezhen"><a href="javascript:void">Cosplay</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">可爱</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">女神</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">嫩模</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">诠释</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+            	
+                     <li class="weimei_xiezhen"><a href="javascript:void">车模</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">小清新</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">模特</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">纯美</a></li>
+
+                    
+                     <li class="weimei_xiezhen"><a href="javascript:void">气质</a></li>
+
+                    
+            </ul>
+
+        </div>
+
+      </div><!--end head-->
+
+      
+
+      <div class="img-show" id="weimeixiezhen">
+
+         <!--左侧大图-->
+
+          
+                      <a href="/album/show_2508.html">
+
+                        <div class="img-308 img">
+
+                        <img src="http://img.mmduo.cc/upload/308x427/201412/12/c0f6fd4ba9.jpg"/>
+
+                        <h5>甜美可爱小妹户外写真</h5>
+
+                        </div>
+
+                      </a>
+
+                      
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+               
+               <a href="/album/show_2521.html">
+
+          	  <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/9472c6a440.jpg"/><h5>小美女户外性感诱惑写真</h5></div>
+
+            </a>
+
+              
+              <a href="/album/show_2332.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/594a6e2f87.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2427.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/c41d03697c.jpg"/></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              
+              <a href="/album/show_2230.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201411/11/426f3f9db7.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2249.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201411/11/065d8f9e4d.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2517.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/cb1e10a080.jpg"/><h5>清纯校花唯美动人写真</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <!--左侧大图-->
+
+          
+                      <a href="/album/show_2502.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/f6c98ac849.jpg"/>
+
+                          <h5>混血气质美女海边动人写真</h5>
+
+                        </div>
+
+                      </a>
+
+                      
+
+
+          <div class="ci-308 img">
+
+                                       <div class="img-308-hide">
+
+                          <a href="/album/show_2464.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/480cfdf3ff.jpg"/>
+                          </a>
+
+                        </div>
+                                            <div class="img-308-hide">
+
+                          <a href="/album/show_2463.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/4cf1060389.jpg"/>
+                          </a>
+
+                        </div>
+                    
+          </div>
+
+                 <!--左侧大图-->
+
+          
+                      <a href="/album/show_2480.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/76f30709ed.jpg"/>
+
+                        <h5>红唇美色丽人</h5></div>
+
+                      </a>
+
+                      
+         <!--  <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              <div class="img-117"><img src="update/8a70757d40.jpg"/></div>
+
+              <div class="img-117"><img src="update/2ab4995e3f.jpg"/></div>
+
+              <div class="img-238"><img src="update/027ebbc381.jpg"/></div>
+
+            </div>
+
+          </div> -->
+
+
+
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+              <a href="/album/show_2502.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/634bfdbdcf.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2493.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/2e31494506.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2516.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/5af108d4fb.jpg"/><h5>红唇美女性感裹胸私房写真</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+
+
+
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+  
+
+  <!--图片分类1-->
+
+  <div class="ci-classify">
+
+  	  <div class="head">
+
+      	<h1 class="purple">网络美女</h1>
+
+      	<div class="tag">
+
+        	<ul>
+
+            	<li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                  
+                     <li class="net_girl"><a href="javascript:void">美腿</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">伊雨蔓</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">清纯</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">佐藤江梨子</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">优雅</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+              
+                     <li class="net_girl"><a href="javascript:void">左思勤</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">时尚</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">美女</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">甜美</a></li>
+
+                    
+                     <li class="net_girl"><a href="javascript:void">唯美</a></li>
+
+                    
+        </div>
+
+      </div><!--end head-->
+
+      
+
+      <div class="img-show" id="net_girl">
+
+      	         <!--左侧大图-->
+
+          
+                      <a href="/album/show_2451.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/2cec85efd2.jpg"/>
+
+                        <h5>豹纹内衣美女苏可可私房写真</h5></div>
+
+                      </a>
+
+                      
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+          	  
+              <a href="/album/show_2515.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/e843673ffe.jpg"/><h5>伊雨蔓性感黑衣诱人写真</h5></div>
+
+            </a>
+
+              
+              <a href="/album/show_2368.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/f682fff5c6.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2443.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/0ccbff69e8.jpg"/></div>
+
+            </a>
+
+              
+             
+
+            </div>
+
+          </div>
+
+          <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              
+              <a href="/album/show_2379.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/fface88716.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2287.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/dcc75b5419.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2424.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/0a6f157ae9.jpg"/><h5>刘飞儿性感内衣写真</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+               <!--左侧大图-->
+
+          
+                      <a href="/album/show_2433.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/25e44a2a69.jpg"/>
+
+                        <h5>林筱诺浴缸里抹胸性感写真</h5></div>
+
+                      </a>
+
+                      
+          <div class="ci-308 img">
+
+                                      <div class="img-308-hide">
+
+                          <a href="/album/show_2475.html">
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/6bf93dc388.jpg"/>
+                          </a>
+
+                        </div>
+                                            <div class="img-308-hide">
+
+                          <a href="/album/show_2466.html">
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/39b9b57e4c.jpg"/>
+                          </a>
+
+                        </div>
+                    
+          </div>
+
+               <!--左侧大图-->
+
+          
+                      <a href="/album/show_2426.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/10ec9871e8.jpg"/>
+
+                        <h5>银杏林里王静茹</h5></div>
+
+                      </a>
+
+                      
+          <!-- <div class="ci-238 img">
+
+          	<div class="ci-238box">
+
+              <div class="img-117"><img src="update/8a70757d40.jpg"/></div>
+
+              <div class="img-117"><img src="update/2ab4995e3f.jpg"/></div>
+
+              <div class="img-238"><img src="update/027ebbc381.jpg"/></div>
+
+            </div>
+
+          </div> -->
+
+                    <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+              <a href="/album/show_1791.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201408/08/d9d470714a.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2125.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201411/11/251a81ecae.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2394.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/46981a99ff.jpg"/><h5>女神李玉洁写真</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+
+
+
+
+
+
+    <!--图片分类1-->
+
+  <div class="ci-classify">
+
+      <div class="head">
+
+        <h1 class="green">体育美女</h1>
+
+        <div class="tag">
+
+          <ul>
+
+              <li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                  
+                     <li class="tiyumeinu"><a href="javascript:void">诱惑甜美</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">丰满巨乳</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">超模</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">周韦彤</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">佐藤由加理</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+                  
+                     <li class="tiyumeinu"><a href="javascript:void">李欣欣</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">余馥羽</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">肉丝</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">小向美奈子</a></li>
+
+                    
+                     <li class="tiyumeinu"><a href="javascript:void">旗袍</a></li>
+
+                    
+            </ul>
+
+        </div>
+
+      </div><!--end head-->
+
+      
+
+      <div class="img-show2" id="tiyumeinu">
+
+        
+                        <div class="img-230" >
+
+                        <a href="/album/show_2472.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/e8e6f5b312.jpg"/>
+
+                          <h5>狂野女军迷</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2460.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/708ef8300a.jpg"/>
+
+                          <h5>粉嫩美女足球宝贝</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2459.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/1593c2b056.jpg"/>
+
+                          <h5>徐冬冬足球宝贝写真</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2452.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/91e4dbd1e7.jpg"/>
+
+                          <h5>妖艳足球宝贝秀豪乳</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2270.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201411/11/c0cc6a9f69.jpg"/>
+
+                          <h5>性感女军迷</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2169.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201411/11/3059e8864c.jpg"/>
+
+                          <h5>打网球的女孩</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2160.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201411/11/b845c70f67.jpg"/>
+
+                          <h5>美女黄可雯雯斗胸斗性感</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2159.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201411/11/04c079f8e9.jpg"/>
+
+                          <h5>绿茵场上黑丝美女</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2147.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201411/11/ab2bce3d35.jpg"/>
+
+                          <h5>赛车女郎</h5>
+
+                        </a>
+
+                        </div>
+
+            
+                        <div class="img-230" >
+
+                        <a href="/album/show_2051.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201410/10/ce0321eba3.jpg"/>
+
+                          <h5>清新小妹时尚高尔夫</h5>
+
+                        </a>
+
+                        </div>
+
+            
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+
+
+
+
+
+
+
+
+
+
+<!--图片分类1-->
+
+  <div class="ci-classify">
+
+      <div class="head">
+
+        <h1 class="purple">动漫美女</h1>
+
+        <div class="tag">
+
+          <ul>
+
+              <li>
+
+                <a href="#">更多 ></a>
+
+                <ol>
+
+                  
+                     <li class="dongmanmeinu"><a href="javascript:void">黄诗思</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">孟洁</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">私房照</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">谷麻紗美</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">仁藤萌乃</a></li>
+
+                    
+                </ol>
+
+                </li>
+
+              
+                     <li class="dongmanmeinu"><a href="javascript:void">瀬尾秋子</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">小野真弓</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">足球宝贝</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">峯岸南</a></li>
+
+                    
+                     <li class="dongmanmeinu"><a href="javascript:void">岡本果奈美</a></li>
+
+                    
+            </ul>
+
+        </div>
+
+      </div><!--end head-->
+
+      
+
+      <div class="img-show" id="dongmanmeinu">
+
+         <!--左侧大图-->
+
+          
+                      <a href="/album/show_2481.html">
+
+                        <div class="img-308 img">
+
+                        <img src="http://img.mmduo.cc/upload/308x427/201412/12/3cdcbe4f9b.jpg"/>
+
+                        <h5>90后清纯妹子萌系Cosplay</h5>
+
+                        </div>
+
+                      </a>
+
+                      
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+               
+               <a href="/album/show_2484.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/6807f6922b.jpg"/><h5>枣真夜小美眉魅惑cosplay写真</h5></div>
+
+            </a>
+
+              
+              <a href="/album/show_2483.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/fe3b54c1c8.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2482.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/e266c05e76.jpg"/></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+              <a href="/album/show_1733.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201408/08/02f5ab4954.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2411.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/875cb3cbe4.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2483.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/fe3b54c1c8.jpg"/><h5>高挑美女海贼王罗宾cosplay</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <!--左侧大图-->
+
+          
+                      <a href="/album/show_2411.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/a0edc6af53.jpg"/>
+
+                          <h5>小清新美眉Cosplay矢泽日香</h5>
+
+                        </div>
+
+                      </a>
+
+                      
+
+
+          <div class="ci-308 img">
+
+                                       <div class="img-308-hide">
+
+                          <a href="/album/show_2405.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/0c1b32d6c7.jpg"/>
+
+                          </a>
+
+                        </div>
+                                            <div class="img-308-hide">
+
+                          <a href="/album/show_2383.html">
+
+                          <img src="http://img.mmduo.cc/upload/pageview/201412/12/2f39e1977e.jpg"/>
+
+                          </a>
+
+                        </div>
+                    
+          </div>
+
+                 <!--左侧大图-->
+
+          
+                      <a href="/album/show_2409.html">
+
+                        <div class="img-308 img"><img src="http://img.mmduo.cc/upload/308x427/201412/12/449db43ee7.jpg"/>
+
+                        <h5>妖艳美女汉库克高清cosplay写真</h5></div>
+
+                      </a>
+
+                      
+            <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              
+              <a href="/album/show_1978.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201409/09/ee99a55adf.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2329.html">
+
+              <div class="img-117"><img src="http://img.mmduo.cc/upload/117x132/201412/12/6b1fdf482f.jpg"/></div>
+
+            </a>
+
+              
+              <a href="/album/show_2482.html">
+
+              <div class="img-238"><img src="http://img.mmduo.cc/upload/pageview/201412/12/e266c05e76.jpg"/><h5>锐雯兔女郎cosplay写真</h5></div>
+
+            </a>
+
+              
+            </div>
+
+          </div>
+
+          <!-- <div class="ci-238 img">
+
+            <div class="ci-238box">
+
+              <div class="img-117"><img src="update/8a70757d40.jpg"/></div>
+
+              <div class="img-117"><img src="update/2ab4995e3f.jpg"/></div>
+
+              <div class="img-238"><img src="update/027ebbc381.jpg"/></div>
+
+            </div>
+
+          </div> -->
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+          <div class="img-308 img"><img src="update/mmdou_23.png"/></div>
+
+      </div><!--end img-show-->
+
+      
+
+  </div><!--end ci-classify-->
+
+
+
+</div>
+<!--footer-->
+
+<div class="footer">
+
+	<P>美女图片站提供的性感美女图片属于借花散香，博众同乐。美女图片所有的美女图片版权归原作者属有，未得到原作者授权下，请勿把美女图片用于商业用途。<br/>
+
+最新美图 © 2009-2013 All Rights Reserved www.mmduo.cc 版权所有 黑ICP备13004323号-1</P>
+
+</div>
+
+
+
+ <script type="text/javascript">
+
+        function get_ajax(keyword){
+         //获取数据
+          url = "http://www.mmduo.cc/album/index.php?c=mapi&m=data2&keyword="+keyword;
+          url = encodeURI(url);//对中文进行编码
+          $.ajax({
+
+            type:'post',
+
+            url:url,
+
+            dataType:'json',
+
+            async:false,
+
+            success:function(data){
+
+              var imgArr = [];
+
+              for(id in data){
+
+                if(data[id]['preview']){
+
+                  imgArr.push(data[id]['preview']);
+
+                }else{
+
+                  imgArr.push(data[id]['pageview']);
+
+                }
+
+              }
+
+              preloadimages(imgArr).done(function(){ 
+
+              });
+
+              if(data){
+
+                 html = '';
+
+                //左侧大图
+
+                 html += ' <div class="img-308 img"><a href="/album/show_'+data[0].id+'.html">';
+
+                 html += '<img src="'+data[0].thumb2+'" /><h5>'+data[0].title+'</h5>';
+
+                 html += '</a></div>';
+
+                 //第一张pageview
+
+                 html += '<div class="ci-238 img"><div class="ci-238box">';
+
+                 html += '<div class="img-238"><a href="/album/show_'+data[1].id+'.html">';
+
+                 html += '<img src="'+data[1].pageview+'"/><h5>'+data[1].title+'</h5>';
+
+                 html += '</a></div>';
+
+                 //4张117图片
+
+                 html += '<div class="img-117"><a href="/album/show_'+data[2].id+'.html">';
+
+                 html += ' <img src="'+data[2]['pageview']+'"/><h5>'+data[2].title+'</h5>'
+
+                 html += '</a></div>';
+
+                 html += '<div class="img-117"><a href="/album/show_'+data[3].id+'.html">';
+
+                 html += ' <img src="'+data[3]['pageview']+'"/><h5>'+data[3].title+'</h5>'
+
+                 html += '</a></div>';
+
+                 html += '</div></div><div class="ci-238 img"><div class="ci-238box">';
+
+
+
+                 html += '<div class="img-117"><a href="/album/show_'+data[4].id+'.html">';
+
+                 html += ' <img src="'+data[4]['pageview']+'"/><h5>'+data[4].title+'</h5>'
+
+                 html += '</a></div>';
+
+                 html += '<div class="img-117"><a href="/album/show_'+data[5].id+'.html">';
+
+                 html += ' <img src="'+data[5]['pageview']+'"/><h5>'+data[5].title+'</h5>'
+
+                 html += '</a></div>'
+
+                 //第二张pageview图片
+
+                 html += '<div class="img-238"><a href="/album/show_'+data[6].id+'.html">';
+
+                 html += '<img src="'+data[6].pageview+'"/><h5>'+data[6].title+'</h5>';
+
+                 html += '</a></div></div></div>';
+
+                
+
+                 //第2张大图
+
+                 html += ' <div class="img-308 img"><a href="/album/show_'+data[7].id+'.html">';
+
+                 html += '<img src="'+data[7].thumb2+'" /><h5>'+data[7].title+'</h5>';
+
+                 html += '</a></div>';
+
+
+
+                 //两短图
+
+                 html += '<div class="ci-308 img">';
+
+                 html += '<div class="img-308-hide"><a href="/album/show_'+data[8].id+'.html">';
+
+                 html += '<img src="'+data[8].preview+'"/></a></div>';
+
+                 html += '<div class="img-308-hide"><a href="/album/show_'+data[9].id+'.html">';
+
+                 html += '<img src="'+data[9].preview+'"/></a></div>';
+
+                 html += '</div>';
+
+                   //右侧大图
+
+                 html += ' <div class="img-308 img"><a href="/album/show_'+data[10].id+'.html">';
+
+                 html += '<img src="'+data[10].thumb2+'" /><h5>'+data[10].title+'</h5>';
+
+                 html += '</a></div>';
+
+
+
+              }
+
+            }
+
+
+
+          });//ajax
+
+          return html;
+
+         }
+
+
+
+        //定义一个函数获取美女明星的图片
+
+        function get_ajax_star(keyword){
+          url = "http://www.mmduo.cc/album/index.php?c=mapi&m=data3&keyword="+keyword;
+          url = encodeURI(url);//对中文进行编码
+          $.ajax({
+
+            type:'post',
+
+            url:url,
+
+            dataType:'json',
+
+            async:false,
+
+            success:function(data){
+              var imgArr = [];
+
+              for(id in data){
+
+                imgArr[id] = data[id].pageview;
+
+              }
+
+              //预加载图片
+
+              preloadimages(imgArr).done(function(){
+
+
+
+              });
+
+              html='';
+
+              if(data){
+
+                for(id in data){
+
+                  
+
+                  html += '<div class="img-230"><a href="/album/show_'+data[id].id+'.html">';
+
+                  html += '<img src="'+data[id].pageview+'"/><h5>'+data[id].title+'</h5></a></div>';                      
+
+                }
+
+              }
+
+         
+
+            }
+
+
+
+          });//ajax
+
+
+
+          return html;
+
+        }
+
+
+
+    //性感美女，ajax加载相册
+
+     $('.sex_girl').click(function(){
+
+      var keyword = $(this).find('a').html();
+      //console.log("关键字="+keyword);
+      $('.sex_girl').removeClass('on');
+
+      $(this).addClass('on');
+
+       var htmlstr = get_ajax(keyword);
+
+       $('#sex_meinv').html(html);
+
+       autoTopWidth();//重新渲染
+
+     })
+
+     //唯美写真，ajax加载相册
+
+     $('.weimei_xiezhen').click(function(){
+
+      var keyword = $(this).find('a').html();
+
+      $('.weimei_xiezhen').removeClass('on');
+
+       $(this).addClass('on');
+
+       var htmlstr = get_ajax(keyword);
+
+       $('#weimeixiezhen').html(html);
+
+       autoTopWidth();//重新渲染
+
+     })
+
+      //网络美女，ajax加载相册
+
+     $('.net_girl').click(function(){
+
+      var keyword = $(this).find('a').html();
+
+      $('.net_girl').removeClass('on');
+
+       $(this).addClass('on');
+
+       var htmlstr = get_ajax(keyword);
+
+       $('#net_girl').html(html);
+
+       autoTopWidth();//重新渲染
+
+     })
+
+     //获取美女明星，ajax加载
+
+     $('.girl_star').click(function(){
+
+        var keyword = $(this).find('a').html();
+
+        $('.girl_star').removeClass('on');
+
+        $(this).addClass('on');
+
+        var htmlstr = get_ajax_star(keyword);
+
+
+
+        $('#girl_star').html(htmlstr);
+
+        autoTopWidth();//重新渲染
+
+     })
+
+
+
+        //获取体育美女，ajax加载
+
+     $('.tiyumeinu').click(function(){
+
+        var keyword = $(this).find('a').html();
+
+        $('.tiyumeinu').removeClass('on');
+
+        $(this).addClass('on');
+
+        var htmlstr = get_ajax_star(keyword);
+
+        $('#tiyumeinu').html(htmlstr);
+
+        autoTopWidth();//重新渲染
+
+     })
+
+
+
+       //动漫美女，ajax加载相册
+
+     $('.dongmanmeinu').click(function(){
+
+       var keyword = $(this).find('a').html();
+
+       $('.dongmanmeinu').removeClass('on');
+
+       $(this).addClass('on');
+
+       var htmlstr = get_ajax(keyword);
+
+       
+
+       $('#dongmanmeinu').html(htmlstr);
+
+       autoTopWidth();//重新渲染
+
+     })
+
+
+
+     
+
+      </script>
+
+
+
+
+<script type="text/javascript">
+//这里处理图片未加载就先计算的问题,
+/*  window.onload = function(){
+    autoTopWidth();
+  }*/
+</script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8cf1bcd43a53bb8849093fa5c2bae254' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</body>
+</html>
+
+
+0
+
+

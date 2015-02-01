@@ -1,0 +1,70 @@
+
+//自定义存储过程
+//1.先把结束符号修改为//
+//2.create procedure testProc()参数类型有OUT,IN,INOUT
+//3.begin
+//4.任意你想查询的sql语句
+//5.END //
+//6.把结束符定义回来 delimiter ;
+//7.调用存储过程CALL testProc()
+//8.select @param结果
+
+delimiter //
+create procedure testProc(IN cloumId INT)
+begin
+select * from tt where id=cloumId;
+end //
+delimiter ;
+
+call testProc(3);
+
+create table tt(
+id int primary key auto_increment,
+name varchar(60) not null default '',
+age mediumint(3) not null default 0
+)engine=myisam default charset=utf8;
+
+SELECT user, MAX(salary) FROM users
+GROUP BY user HAVING MAX(salary)>10;
+
+having和where的区别，having是用在聚合函数之后的
+
+并且可以使用聚合函数作为条件，例如MAX(salary)>10
+
+不能无缘无故的使用having
+
+group by 默认使用asc,不要以为只有order by才有asc 和desc
+
+
+PREPARE STMT FROM "select * from table tt limit ?,?";
+
+execute STMT USING 1,10
+
+创建视图非常的有趣
+
+create view vv as select * from 
+
+视图有两种形式，一种是模板template,merge
+template是创建好了之后就一直保存在内在中,临时表
+
+而merge每一个调用这个视图的时候都要把两个表查询
+
+algorithm = temptable临时表
+
+临时表修改是否会修改原来的表呢，这是一个问题
+
+
+，而且如果使用了临时表，视图是不可更新的
+
+merge算法的视图是可以增删改查的，而temptable算法的是不能增删改查的
+
+
+
+create table tt2(
+subject varchar(60) not null default '',
+score int(60) not null default 0
+)engine=memory default charset=utf8;
+
+
+create algorithm=merge view vv2 as select id,name ,age from tt;
+create algorithm=temptable view vv3 as select id,name ,age from tt;
