@@ -75,6 +75,7 @@ abstract class Demo
 	public function get_name()
 	{
 		echo static::$name;
+        print_r("hgello");
 	}
 }
 
