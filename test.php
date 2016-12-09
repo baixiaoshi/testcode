@@ -1,6 +1,6 @@
 <?php
 
-abstract class Demo
+abstract class Demo1
 {
 	protected static $name = 'baixiaoshi';
 
