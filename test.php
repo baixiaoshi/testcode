@@ -1,13 +1,17 @@
 <?php
 
-abstract class Demo1
+abstract class Demo
 {
 	protected static $name = 'baixiaoshi';
     private static $names = "hurong";
     private static $ages = 25;
 
 
+<<<<<<< Updated upstream
 	public function get_name_fanglei()
+=======
+	public function get_name_hurong()
+>>>>>>> Stashed changes
 	{
 		echo static::$name;
         print_r("fanglei");
