@@ -20,4 +20,5 @@ class Mydemo extends Demo
 	//parent::get_name();
 }
 
+$test_pull_2 = "test_pull_2";
 ?>
