@@ -1,14 +1,15 @@
 <?php
 
-abstract class Demo
+abstract class Demo1
 {
 	protected static $name = 'baixiaoshi';
     private static $names = "hurong";
 
 
-	public function get_name()
+	public function get_name_fanglei()
 	{
 		echo static::$name;
+        print_r("fanglei");
 	}
 }
 
