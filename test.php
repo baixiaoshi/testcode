@@ -21,4 +21,6 @@ class Mydemo extends Demo
 }
 
 $test_pull_2 = "test_pull_2";
+
+$test_fetch_1 = "test_fetch_1";
 ?>
